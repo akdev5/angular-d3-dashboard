@@ -1,22 +1,6 @@
 {
-  "name": "resourcefoundry",
-  "version": "0.0.1",
-  "dependencies": {
-    "express": "latest",
-    "node-mysql": "latest",
-    "lodash": "latest",
-    "consolidate": "latest",
-    "q": "latest"
-  },
-  "devDependencies": {
-    "javascript-brunch": ">= 1.0 < 1.8",
-    "css-brunch": ">= 1.0 < 1.8",
-    "ngmin-uglify-js-brunch": "~1.7.2",
-    "clean-css-brunch": ">= 1.0 < 1.8",
-    "auto-reload-brunch": "~1.6.5",
-    "less-brunch": "~1.5.2"
-  },
-  "engines": {
-    "node": ">=0.8.0"
+  "name" : "angular-d3",
+  "dependencies" : {
+    "express" : "3.x"
   }
 }
