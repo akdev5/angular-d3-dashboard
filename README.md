@@ -11,6 +11,7 @@
 </ul>
 
 ## Installation
+
 - git clone or download
 - `npm install`
 - `bower install`
