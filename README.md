@@ -3,6 +3,7 @@ Angular-D3 Dashboard
 
 Features
 --------
+
 <ul>
 <li>Live updating metrics, all in one place</li>
 <li>D3 bullet and bar charts, with easy extensiblity and configurability</li>
