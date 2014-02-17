@@ -1,8 +1,6 @@
-Angular-D3 Dashboard
-==================================
+# Angular-D3 Dashboard
 
-Features
---------
+## Features
 
 <ul>
 <li>Live updating metrics, all in one place</li>
@@ -11,3 +9,9 @@ Features
 <li>Passport.js integration for secure login</li>
 <li>Easily execute promise-based MySQL queries with `node-mysql` wrapper and custom execQuery function</li>
 </ul>
+
+## Installation
+- git clone or download
+- `npm install`
+- `bower install`
+- `node server.js`
